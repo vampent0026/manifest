@@ -9,15 +9,15 @@
 
   <remote  name="derp"
            fetch="https://github.com/DerpFest-AOSP"
-           revision="14" />
+           revision="13" />
 
   <remote  name="derp-devices"
            fetch="https://github.com/DerpFest-Devices"
-           revision="14" />
+           revision="13" />
 
   <remote  name="alex"
            fetch="ssh://git@github.com/NurKeinNeid"
-           revision="14" />
+           revision="13" />
 
   <remote name="staging" fetch="ssh://git@github.com/derp-staging" revision="14-qpr3" />
 
